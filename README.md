@@ -93,33 +93,3 @@ Compared to clientless remote desktop gateway (e.g. [Apache Guacamole](https://g
   <img src="https://raw.githubusercontent.com/m1k1o/neko/master/docs/_media/icons/tor-browser.svg" title="m1k1o/neko:tor-browser" width="60" height="auto"/>
 </div>
 
-### Other programs
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/m1k1o/neko/master/docs/_media/icons/remmina.png" title="m1k1o/neko:remmina" width="60" height="auto"/>
-  <img src="https://raw.githubusercontent.com/m1k1o/neko/master/docs/_media/icons/vlc.svg" title="m1k1o/neko:vlc" width="60" height="auto"/>
-  <img src="https://raw.githubusercontent.com/m1k1o/neko/master/docs/_media/icons/xfce.svg" title="m1k1o/neko:xfce" width="60" height="auto"/>
-  <img src="https://raw.githubusercontent.com/m1k1o/neko/master/docs/_media/icons/kde.svg" title="m1k1o/neko:kde" width="60" height="auto"/>
-
-  ... others in <a href="https://github.com/m1k1o/neko-apps">m1k1o/neko-apps</a>
-</div>
-
-### Features
-
-  * Text Chat (With basic markdown support, discord flavor)
-  * Admin users (Kick, Ban & Force Give/Release Controls, Lock room)
-  * Clipboard synchronization (on [supported browsers](https://developer.mozilla.org/en-US/docs/Web/API/Clipboard/readText))
-  * Emote overlay
-  * Ignore user (chat and emotes)
-  * Persistent settings
-  * Automatic Login with custom url args. (add `?usr=<your-user-name>&pwd=<room-pass>` to the url.)
-  * Broadcasting room content using RTMP (to e.g. twitch or youtube...)
-  * Bidirectional file transfer (if enabled)
-
-
-
-Navigate to [.docker](.docker) folder for further information.
-
-## Support
-
-If you want to support this project, you can do it [here](https://github.com/sponsors/m1k1o).
